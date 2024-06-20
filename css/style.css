@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: burlywood;
+}
+
+header{
+    background-color: #333;
+    color: tan;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding: 50px 0;
+    text-align: center;
+    text-decoration: underline;
+}
+
+nav{
+    background-color: #111;
+    padding: 20px;
+    text-align: center;
+
+    a{
+        color: #fff;
+        text-decoration: none;
+        padding: 0 20px;
+
+    }
+
+    a:hover{
+        color: rgb(25, 131, 192);
+    }
+}
+
+main{
+    padding: 50px;
+
+    .main-name{
+        background-color: rgb(255, 241, 223);
+        padding: 50px;
+        text-align: center;
+        border-radius: 20px;
+        
+        h2{
+            color: tan;
+            font-style: italic;
+        }
+        img{
+            width: 300px;
+            height: 400px;
+        }
+    }
+
+    .main-skill{
+        background-color: rgb(255, 241, 223);
+        padding: 50px;
+        margin-top: 20px;
+        border-radius: 20px;
+
+        .main-title{
+            color: tan;
+            font-style: italic;
+        }
+    }
+
+    .main-experience{
+        background-color: rgb(255, 241, 223);
+        padding: 50px;
+        margin-top: 20px;
+        border-radius: 20px;
+
+        .main-title{
+            color: tan;
+            font-style: italic;
+        }
+    }
+
+    .main-contact{
+        background-color: rgb(255, 241, 223);
+        padding: 50px;
+        margin-top: 20px;
+        border-radius: 20px;
+
+        .main-title{
+            color: tan;
+            font-style: italic;
+        }
+    }
+}
+
+footer{
+    background-color: #757575;
+    padding: 20px;
+    text-align: center;
+}
