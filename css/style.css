@@ -41,7 +41,7 @@ nav{
 main{
     padding: 20px;
 
-    .profiles{
+    .main-profiles{
         background-color: rgb(255, 241, 223);
         padding: 50px;
         text-align: center;
@@ -57,7 +57,7 @@ main{
         }
     }
 
-    .skills{
+    .main-skills{
         background-color: rgb(255, 241, 223);
         padding: 50px;
         margin-top: 20px;
@@ -69,7 +69,7 @@ main{
         }
     }
 
-    .experience{
+    .main-experience{
         background-color: rgb(255, 241, 223);
         padding: 50px;
         margin-top: 20px;
@@ -81,7 +81,7 @@ main{
         }
     }
 
-    .contact{
+    .main-contact{
         background-color: rgb(255, 241, 223);
         padding: 50px;
         margin-top: 20px;
